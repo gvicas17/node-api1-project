@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/gvicas17/node-api1-project#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "shortid": "^2.2.16"
   },
   "devDependencies": {
